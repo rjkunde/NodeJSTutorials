@@ -10,9 +10,8 @@ Tested Node 6.11.3 LTS
 https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type
 RJ Kunde 9.27.17
 
-##
-Prerequisites
+## Prerequisites
 * Install Node.js version 4.1.1 - 6.X.X, 8.X.X
 
-##Run:
+## Run:
 * After editing each *.js file to match your system/database configuration: node INSERT_FILE_HERE.js
