@@ -17,7 +17,7 @@ http.createServer(function (request, response) {
      // Query the database. 
      connection.query('SELECT * FROM YOUR_TABLE_HERE;', function (error, rows, fields) { 
 		 response.writeHead(200, { 
-			'Content-Type': 'x-application/json' 
+			'Content-Type': 'application/javascript' 
 		  }); 
 		 // Send data as JSON string. 
 		 // Rows variable holds the result of the query. 
